@@ -3,6 +3,7 @@
     "build": "echo 'No build script specified'"
   },
   "dependencies": {
+    "bootstrap": "^5.3.3",
     "dotenv": "^16.4.5",
     "nodemon": "^3.1.4"
   }
